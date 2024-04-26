@@ -1,4 +1,4 @@
-
+#
 <span style="background-image: linear-gradient(to right, blue, lightblue); -webkit-background-clip: text; color: transparent; font-size: 22px; font-weight: bold;">
 Olá, sou Jéssica Scavello, sejam bem vindos aos meu perfil! 🚀</span>
 
